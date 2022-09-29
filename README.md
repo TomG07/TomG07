@@ -1,5 +1,5 @@
 <div align="center">
-  # 👋🏻 Olá, sou o <b>TomG</b>!
+  <h1 align="center"><b>TomG</b></h1>
   <br>
   <code align=center>› Desenvolvedor há cerca de 4 anos e meio.</code>
   <br>
