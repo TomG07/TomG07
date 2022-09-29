@@ -1,5 +1,6 @@
 <div align="center">
   # 👋🏻 Olá, sou o <b>TomG</b>!
+  <br>
   <code align=center>› Desenvolvedor há cerca de 4 anos e meio.</code>
   <br>
   <code align=center>› Tenho 15 anos.</code>
