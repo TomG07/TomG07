@@ -14,10 +14,11 @@
 <br>
   <details>
     <br>
-    <summary><underline><b>› ・› Github Stats・</b></underline></summary>
+    <summary><underline><b>›Github Stats</b></underline></summary>
     <table><tr><td style="padding: 0; width=50%">
-      <img src="https://github-readme-stats.vercel.app/api/?username=TomG07&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=1c6cbf&hide_title=true&count_private=true" /></td>
-      <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomG07&show_icons=true&title_color=1c6cbf&text_color=246af9&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" /></td></tr></table>
+      
+      <img src="https://github-readme-stats.vercel.app/api/?username=TomG07&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=539BF5&hide_title=true&count_private=true" /></td>
+      <td style="padding: 0; width=50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomG07&show_icons=true&title_color=539BF5&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" /></td></tr></table>
   </details> 
   <br>
   <a href="https://discord.com/users/541030181616222218" alt="TomG07" align="center"><img src="https://lanyard.cnrad.dev/api/541030181616222218"/></a>
