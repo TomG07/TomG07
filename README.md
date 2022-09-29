@@ -18,9 +18,6 @@
   </details> 
   <br>
   <a href="https://discord.com/users/541030181616222218" alt="TomG07"><img src="https://lanyard.cnrad.dev/api/541030181616222218"/></a>
-  
-  <code align=center>› Contate-me para mais para informações</code>
-  
   <code align=center>› Email, Zona, Discord e Twitter no meu perfil!</code>
 
 </div>
