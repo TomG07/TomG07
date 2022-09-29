@@ -8,8 +8,9 @@
   <code align=center>› Estudo para ser Engenheiro de Software</code>
   <br>
   <code align=center>› Amo o Discord.</code>
-<br>
-  <a href="https://github.com/TomG07" alt="TomG"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb&theme=dark&perline=5"></a>
+  <br>
+  <br>
+  <a href="https://github.com/TomG07" alt="TomG"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb&theme=dark&perline=4"></a>
 <br>
   <details>
     <summary><underline><b>› ・› Github Status..・</b></underline></summary>
