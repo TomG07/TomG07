@@ -5,12 +5,12 @@
   <br>
   <code align=center>› Tenho 15 anos.</code>
   <br>
-  <code align=center>› Estudo para ser Engenheiro de Software</code>
+  <code align=center>› Estudo para ser Programador de Software</code>
   <br>
   <code align=center>› Amo o Discord.</code>
   <br>
   <br>
-  <a href="https://github.com/TomG07" alt="TomG"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb&theme=dark&perline=4"></a>
+  <a href="https://github.com/TomG07" alt="TomG"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb,ts&theme=dark&perline=4"></a>
 <br>
   <details>
     <br>
