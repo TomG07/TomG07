@@ -1,13 +1,11 @@
 <div align="center">
   <h1 align="center"><b>TomG</b></h1>
   <br>
-  <code align=center>› Desenvolvedor há cerca de 4 anos e meio.</code>
+  <code align=center>› Desenvolvedor há cerca de 5 anos.</code>
   <br>
-  <code align=center>› Tenho 15 anos.</code>
+  <code align=center>› Tenho 16 anos.</code>
   <br>
   <code align=center>› Estudo para ser Programador de Software</code>
-  <br>
-  <code align=center>› Amo o Discord.</code>
   <br>
   <br>
   <a href="https://github.com/TomG07" alt="TomG"><img src="https://skillicons.dev/icons?i=react,git,nodejs,js,html,css,md,mongodb,ts&theme=dark&perline=4"></a>
