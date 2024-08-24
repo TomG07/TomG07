@@ -20,17 +20,17 @@
 
 <div>
   <div align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=TomG07&data=followers,repositories,stars,commits&theme=darkmode" alt="TomG07"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=TomG07&data=followers,repositories,stars,commits&theme=darkmode&align=center" alt="TomG07"/>
 </div>
 
 <br>
 
 <h2 align="center">🔥 What I use 🔥</h2>
-  <p align="center">
-       <a href="https://github.com/TomG07/" align="center">
-          <img src="https://skillicons.dev/icons?i=arduino,bash,css,discord,bots,discordjs,express,figma,git,github,heroku,html,js,md,mongodb,mysql,netlify,nodejs,npm,ps,postman,powershell,stackoverflow,ts,vercel,vscode,windows&theme=dark&perline=9"alt="My Skills"/> 
-      </a>
-  </p>
+<p align="center">
+    <a href="https://github.com/TomG07/">
+       <img align="center" src="https://skillicons.dev/icons?i=arduino,bash,css,discord,bots,discordjs,express,figma,git,github,heroku,html,js,md,mongodb,mysql,netlify,nodejs,npm,ps,postman,powershell,stackoverflow,ts,vercel,vscode,windows&theme=dark&perline=9"alt="My Skills"/> 
+    </a>
+</p>
 <br>
 
 <h2 align="center">🚀 Study Platform 🚀</h2>
