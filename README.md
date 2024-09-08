@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi👋🏻</h1>
+<h1 align="center">👋🏻Hi👋🏻</h1>
 <h3 align="center">My name's Tomás, but known as TomG on the internet.<br><br>I'm a programmer since 5 hears and specialized on Discord Bot development</h2>
 
 <br>
@@ -21,6 +20,16 @@
 <div>
   <div align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=TomG07&data=followers,repositories,stars,commits&theme=darkmode&align=center" alt="TomG07"/>
+</div>
+
+<br>
+
+<h2 align="center">🧪Actual Project🧪</h2>
+
+<div align="center">
+   <a href="https://top.gg/bot/1259903986493030501">
+     <img src="https://top.gg/api/widget/1259903986493030501.svg">
+   </a>
 </div>
 
 <br>
