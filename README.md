@@ -1,5 +1,5 @@
 <h1 align="center">👋🏻Hi👋🏻</h1>
-<h3 align="center">My name's Tomás, but known as TomG on the internet.<br><br>I'm a programmer since 5 hears and specialized on Discord Bot development</h2>
+<h3 align="center">My name's Tomás, but known as TomG on the internet.<br><br>I'm a programmer since 5 years and specialized on Discord Bot development</h2>
 
 <br>
 
