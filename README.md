@@ -37,7 +37,7 @@
 <h2 align="center">🔥 What I use 🔥</h2>
 <p align="center">
     <a href="https://github.com/TomG07/">
-       <img align="center" src="https://skillicons.dev/icons?i=arduino,bash,css,discord,bots,discordjs,express,figma,git,github,heroku,html,js,md,mongodb,mysql,netlify,nodejs,npm,ps,postman,powershell,react,stackoverflow,ts,vercel,vscode,vite,windows&theme=dark&perline=9"alt="My Skills"/> 
+       <img align="center" src="https://skillicons.dev/icons?i=css,discord,bots,discordjs,express,figma,git,github,heroku,html,js,mongodb,netlify,nodejs,npm,postman,react,ts,vercel,vscode,vite&theme=dark&perline=9"alt="My Skills"/> 
     </a>
 </p>
 <br>
