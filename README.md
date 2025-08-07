@@ -25,12 +25,7 @@
 <br>
 
 <h2 align="center">🧪Actual Project🧪</h2>
-
-<div align="center">
-   <a href="https://top.gg/bot/1259903986493030501">
-     <img src="https://top.gg/api/widget/1259903986493030501.svg">
-   </a>
-</div>
+<h3 align="center">LexiFlow</h3>
 
 <br>
 
