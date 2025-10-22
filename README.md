@@ -24,7 +24,7 @@
 
 <br>
 
-<h2 align="center">🧪Actual Project🧪</h2>
+<h2 align="center">🧪Current Project🧪</h2>
 <h3 align="center">LexiFlow</h3>
 
 <br>
