@@ -1,0 +1,56 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 0 * * *'  
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '20'
+
+    - name: Install curl
+      run: sudo apt-get update && sudo apt-get install -y curl
+
+    - name: Debug information
+      run: |
+        echo "Running as $(whoami)"
+        echo "Node version: $(node -v)"
+        echo "NPM version: $(npm -v)"
+
+    - name: Show current README content
+      run: cat README.md
+
+    - name: Update GitHub Stats in README
+      run: |
+        # Baixar o arquivo README.md atualizado
+        curl -o README.md https://raw.githubusercontent.com/TomG07/TomG07/main/README.md
+        echo "Updated README content:"
+        cat README.md
+
+    - name: Configure Git
+      run: |
+        git config --global user.name "Tomás Frazão"
+        git config --global user.email "tomas.santos.frazao@gmail.com"
+        git config --global --add safe.directory /github/workspace
+
+    - name: Check for changes
+      run: |
+        if ! git diff --quiet; then
+          git add README.md
+          git commit -m "Atualiza README com novas estatísticas"
+          git push
+        else
+          echo "No changes to commit"
+        fi
