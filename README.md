@@ -99,7 +99,7 @@ const tomg = {
 <div align="center">
 
 <a href="https://github.com/TomG07">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomG07&repo=Tom5&theme=radical&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TomG07&repo=portfolio&theme=radical&hide_border=false" />
 </a>
 
 <!-- Adicione mais repos conforme necessário -->
