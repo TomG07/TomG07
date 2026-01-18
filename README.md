@@ -84,16 +84,6 @@ const tomg = {
 
 ---
 
-<div align="center">
-
-## 📈 Estatísticas em Tempo Real
-
-<img height="200" src="https://lanyard.cnrad.dev/api/541030181616222218?bg=0d1117&borderRadius=10&idleMessage=Transformando%20café%20em%20código%20✨&theme=dark&showDisplayName=true&animated=true" />
-
-</div>
-
----
-
 ## 🚀 Projetos em Destaque
 
 <div align="center">
